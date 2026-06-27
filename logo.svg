@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <defs>
+    <linearGradient id="rg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FF2020"/>
+      <stop offset="100%" stop-color="#990000"/>
+    </linearGradient>
+  </defs>
+  <!-- M tall left -->
+  <text x="5"   y="72" font-family="Arial Black, Impact, sans-serif" font-size="76" font-weight="900" fill="url(#rg)">M</text>
+  <!-- A -->
+  <text x="62"  y="64" font-family="Arial Black, Impact, sans-serif" font-size="58" font-weight="900" fill="url(#rg)">A</text>
+  <!-- N -->
+  <text x="112" y="62" font-family="Arial Black, Impact, sans-serif" font-size="54" font-weight="900" fill="url(#rg)">N</text>
+  <!-- M -->
+  <text x="158" y="62" font-family="Arial Black, Impact, sans-serif" font-size="54" font-weight="900" fill="url(#rg)">M</text>
+  <!-- O -->
+  <text x="214" y="62" font-family="Arial Black, Impact, sans-serif" font-size="54" font-weight="900" fill="url(#rg)">O</text>
+  <!-- H tall right -->
+  <text x="264" y="72" font-family="Arial Black, Impact, sans-serif" font-size="76" font-weight="900" fill="url(#rg)">H</text>
+</svg>
